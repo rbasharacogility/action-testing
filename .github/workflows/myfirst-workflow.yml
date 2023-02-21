@@ -14,3 +14,7 @@ jobs:
         run: echo "hello world"
       - name: Print goodbye
         run: echo "goodbye!"
+        # It's possible to run multi-line entries in a single step as such (note indenting):
+        #run: |
+        #  echo "first step"
+        #  echo "second step"

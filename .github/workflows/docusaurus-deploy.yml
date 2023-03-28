@@ -22,7 +22,7 @@ jobs:
         run: npm ci
       - name: Build website
         run: |
-          cd website
+          cd docs
           npm install 
           npm run build
 

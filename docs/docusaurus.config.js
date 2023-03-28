@@ -21,7 +21,7 @@ const config = {
   organizationName: 'rbasharacogility', // Usually your GitHub org/user name.
   projectName: 'rbasharacogility.github.io', // Usually your repo name.
   deploymentBranch: 'master',
-  trailingSlash: false
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

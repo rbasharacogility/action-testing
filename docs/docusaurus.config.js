@@ -14,12 +14,14 @@ const config = {
   url: 'https://rbasharacogility.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/action-testing/docs',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'rbasharacogility', // Usually your GitHub org/user name.
+  projectName: 'rbasharacogility.github.io', // Usually your repo name.
+  deploymentBranch: 'master',
+  trailingSlash: false
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

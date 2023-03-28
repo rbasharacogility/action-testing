@@ -22,9 +22,9 @@ jobs:
         run: npm ci
       - name: Build website
         run: |
-        cd docs
-        npm install
-        npm run build
+          cd website
+          npm install 
+          npm run build
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus

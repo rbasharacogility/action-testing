@@ -1,5 +1,5 @@
 # L2 - Welcome
-What are Github actions? → workflow automation service for many processes and actions
+What are Github actions?? → workflow automation service for many processes and actions
 
 2 main areas most benefit from automation:
 

@@ -7,7 +7,7 @@ name: Test Project
 #
 on: workflow_dispatch
 #
-# A list of jobs
+# A list of jobs that the workflow will run through.
 #
 jobs: 
 #

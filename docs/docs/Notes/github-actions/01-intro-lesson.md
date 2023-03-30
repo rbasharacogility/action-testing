@@ -1,6 +1,8 @@
 # L2 - Welcome
 What are Github actions?? → workflow automation service for many processes and actions
 
+Modifying a file by adding a line. 
+
 2 main areas most benefit from automation:
 
 **(Continuous Integration/Continuous Delivery) CI/CD, or Code deployment →**
